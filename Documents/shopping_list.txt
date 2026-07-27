@@ -1,0 +1,26 @@
+
+
+--------------------------------------------------------------------------
+WELCOME TO OUR FAMILY MART !!! YOU WILL BE  ANY PROBLEM PLEASE CONTACT OUR STAFF MEMBER
+--------------------------------------------------------------------------
+groceries: milk powder -> price: 67
+groceries: icecream -> price: 60
+groceries: earrings -> price: 26
+groceries: nosering -> price: 27
+groceries: tea -> price: 82
+groceries: coffee -> price: 36
+groceries: rice -> price: 79
+groceries: daal -> price: 87
+total amount: 464
+
+--------------------------------------------------------------------------
+WELCOME TO OUR FAMILY MART !!! YOU WILL BE  ANY PROBLEM PLEASE CONTACT OUR STAFF MEMBER
+--------------------------------------------------------------------------
+groceries: milk -> price: 77
+groceries: ugar -> price: 25
+groceries: earings -> price: 51
+groceries: noserings -> price: 46
+groceries: apple -> price: 88
+groceries: soyasose -> price: 75
+groceries: dress -> price: 57
+total amount: 419

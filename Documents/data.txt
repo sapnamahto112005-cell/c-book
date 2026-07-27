@@ -1,0 +1,40 @@
+Question: 1. Which keyword is used to define a function in Python?
+Answer: B
+Points: 1
+--------------------------
+Question: 2. Which data type is used to store True or False?
+Answer: C
+Points: 2
+--------------------------
+Question: 3. Which symbol is used to write a comment in Python?
+Answer: A
+Points: 2
+--------------------------
+Question: 4. Which function is used to take input from the user?
+Answer: B
+Points: 3
+--------------------------
+Question: 5. Which keyword is used to stop a loop?
+Answer: C
+Points: 4
+--------------------------
+Question: 1. Which keyword is used to define a function in Python?
+Answer: B
+Points: 1
+--------------------------
+Question: 2. Which data type is used to store True or False?
+Answer: A
+Points: 1
+--------------------------
+Question: 3. Which symbol is used to write a comment in Python?
+Answer: A
+Points: 1
+--------------------------
+Question: 4. Which function is used to take input from the user?
+Answer: B
+Points: 2
+--------------------------
+Question: 5. Which keyword is used to stop a loop?
+Answer: A
+Points: 2
+--------------------------
